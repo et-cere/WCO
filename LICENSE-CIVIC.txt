@@ -1,0 +1,48 @@
+Civic Reciprocity License (Pre‑Launch Draft v0.1)
+(Non‑binding placeholder for early WCO releases)
+
+This is a temporary civic license for early-stage publishing.
+It is not a final legal instrument.
+A full license will be published when the WCO substrate reaches public readiness.
+
+1. Purpose
+This license exists to ensure that early WCO code, schemas, and civic objects remain part of a shared global commons.
+It allows broad reuse while preventing enclosure, privatization, or exclusive forks of the core substrate.
+
+2. Permissions
+You may:
+
+Use, copy, and modify the materials
+
+Build new tools, modules, or experiments
+
+Redistribute modified or unmodified versions
+
+Use the materials for civic, educational, research, or public-interest purposes
+
+3. Reciprocity
+If you publicly deploy, publish, or operate a modified version of the WCO substrate or its civic objects, you must:
+
+Make your modifications publicly available under this same license
+
+Clearly state what you changed
+
+Not restrict others from using your changes
+
+This ensures improvements flow back into the commons.
+
+4. No Exclusive Claims
+You may not:
+
+Claim exclusive ownership over the WCO name, civic objects, schemas, or substrate
+
+Create closed-source forks of the core substrate
+
+Use the WCO name to imply official affiliation without permission
+
+5. No Warranty
+The materials are provided “as is,” without warranty or liability.
+
+6. Temporary Status
+This license is a pre‑launch placeholder.
+A formal, legally reviewed version will replace it when the WCO substrate becomes publicly operational.

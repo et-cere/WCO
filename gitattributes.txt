@@ -1,0 +1,10 @@
+# Force GitHub to classify this repository as JavaScript
+* linguist-language=JavaScript
+
+# Treat JSON, HTML, and CSS as part of the JS ecosystem
+*.json linguist-language=JavaScript
+*.html linguist-language=JavaScript
+*.css linguist-language=JavaScript
+
+# Ignore the zip bundle in language stats
+*.zip linguist-documentation
